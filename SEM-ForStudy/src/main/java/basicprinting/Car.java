@@ -7,7 +7,6 @@ public class Car {
 		String color= "Crayon";
 
 		System.out.println("Make of the car is "+make+" and the model is "+model+" wrapped with "+color);
-
 	}
 
 	public static void main (String[] args) {
