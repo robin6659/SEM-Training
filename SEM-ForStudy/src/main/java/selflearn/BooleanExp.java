@@ -6,7 +6,7 @@ public class BooleanExp {
 	public static void voting() {
 
 		int votingAge = 18;
-		
+
 		Scanner scanner = new Scanner(System.in);
 
 		System.out.println("Enter age");
