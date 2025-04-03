@@ -5,9 +5,12 @@ import java.util.Scanner;
 public class BooleanExp {
 	public static void voting() {
 
-		int votingAge = 18;
+		//int votingAge = 18;
 
 		Scanner scanner = new Scanner(System.in);
+		
+		System.out.println("Enter voting age");
+		int votingAge = scanner.nextInt();
 
 		System.out.println("Enter age");
 		int myAge = scanner.nextInt();
