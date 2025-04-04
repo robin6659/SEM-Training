@@ -6,6 +6,3 @@ public class InstanceProg1 {
 		String name = "Car";
 		System.out.println(name);	}
 }
-
-
-
