@@ -27,4 +27,4 @@ public class CompiletimeProg1 {
 		System.out.println("Multiply three numbers"+multiply(3,3,1));
 	}
 
-}
+} 
