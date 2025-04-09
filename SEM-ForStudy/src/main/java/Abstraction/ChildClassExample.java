@@ -4,7 +4,7 @@ public class ChildClassExample extends AbstractionExample {
 
     @Override
     public void displayMessage() {
-        System.out.println("Hi, this is an abstract method implementation.");
+        System.out.println("Abstract method implementation");
     }
 
     public static void main(String[] args) {
