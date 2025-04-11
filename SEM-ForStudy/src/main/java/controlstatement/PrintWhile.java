@@ -1,4 +1,4 @@
-package controstatement;
+package controlstatement;
 
 public class PrintWhile {
 	

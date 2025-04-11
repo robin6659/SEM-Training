@@ -1,4 +1,4 @@
-package controstatement;
+package controlstatement;
 
 public class ReverseWhile {
 	public static void main(String[] args) {

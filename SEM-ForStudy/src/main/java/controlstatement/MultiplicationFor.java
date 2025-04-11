@@ -1,4 +1,4 @@
-package controstatement;
+package controlstatement;
 
 class MultiplicationFor {
 	public static void main(String[] args) {
