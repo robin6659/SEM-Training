@@ -37,7 +37,7 @@ public class ArrayListEx2 {
 		System.out.println("Size of list: " + colour.size());
 		System.out.println("-----------------------");
 
-		// Step 8: Checking if certain elements are present using contains()
+		/*Checking if certain elements are present using contains()*/
 		System.out.println("Contains 'Blue': " + colour.contains("Blue"));   /*True*/
 		System.out.println("Contains 'Red': " + colour.contains("Red")); /*False*/
 	}
