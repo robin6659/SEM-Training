@@ -1,5 +1,7 @@
 package Polymorphism;
 
+/*Method Overriding*/
+
 class Employee {
 	int salary() {
 		return 10000;

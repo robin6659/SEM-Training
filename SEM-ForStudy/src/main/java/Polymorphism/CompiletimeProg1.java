@@ -1,7 +1,7 @@
 package Polymorphism;
 
 public class CompiletimeProg1 {
-
+/*overloading*/
 	public static int add(int a, int b) {
 		return a + b;
 	}

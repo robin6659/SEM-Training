@@ -1,5 +1,7 @@
 package Polymorphism;
 
+/*Method Overloading*/
+
 public class CompiletimeProg2 {
 
 	public static void print (String name) {
