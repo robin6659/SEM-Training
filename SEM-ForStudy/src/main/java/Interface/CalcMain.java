@@ -6,5 +6,6 @@ public class CalcMain {
 
 		CalcSubtract sub = new CalcSubtract();
 		sub.subtract(10, 5);
+
 	}
 }
