@@ -1,7 +1,9 @@
 package Polymorphism;
 
 public class CompiletimeProg1 {
-/*overloading*/
+	/* Overloading methods: 
+    Same method name but different parameter lists (number of parameters) */
+	
 	public static int add(int a, int b) {
 		return a + b;
 	}

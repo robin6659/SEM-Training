@@ -1,14 +1,14 @@
 package Polymorphism;
 
 class Animal {
-	void sound() {
+	public void sound() {
 		System.out.println("make noise");
 	}
 }
 
 /*Dog is the Child class*/
 class Dog extends Animal {
-	void sound() {
+	public void sound() {
 		/*Overriding the parent class method*/
 		System.out.println("Barks!!");
 	}
